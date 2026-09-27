@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.ycsc1688.cn/sitemap.xml
